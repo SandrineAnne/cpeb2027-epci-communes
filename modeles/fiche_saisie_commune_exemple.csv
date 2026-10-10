@@ -1,0 +1,18 @@
+﻿champ;valeur;description
+code_insee;;Code INSEE de la commune
+nom;Commune Exemple (données fictives);Nom
+population;4230;Population
+recettes_fonctionnement;4930000;Recettes réelles de fonctionnement 2025 — Classe 7 nette hors 77, DILICO déduit
+depenses_fonctionnement;4180000;Dépenses réelles de fonctionnement 2025 — Classe 6 nette hors 67 et 68
+encours_dette;3250000;Encours de dette au 31/12/2025 — Comptes 16 hors 165
+remboursement_capital;295000;Remboursement du capital 2025 — Débits des comptes 16 hors 165
+depenses_equipement;1420000;Dépenses d'équipement 2025 — Comptes 20, 21, 23
+impots_directs_locaux;2060000;Impôts directs locaux 2025 — Compte 73111
+subventions_fctva_recus;455000;Subventions et FCTVA reçus 2025 — Comptes 13 (hors 139) et 10222
+dilico_2025;12400;"DILICO 2025 payé — Montant positif ; fichier DGCL ou compte 739218"
+dilico_2026;12400;DILICO 2026 prélevé — Fichier DGCL
+reversement_dilico_2026;3720;Reversement DILICO perçu en 2026 — Fichier DGCL « reversement »
+cpeb_mode;taux;taux (scénario en % des recettes) ou montant
+cpeb_taux;1,3;Taux du scénario en %
+cpeb_montant;;Montant officiel en euros (mode montant)
+cpeb_statut;hypothèse;hypothèse | estimation | PLF | loi de finances votée | notifié

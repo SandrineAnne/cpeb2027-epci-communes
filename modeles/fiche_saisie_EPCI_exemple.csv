@@ -1,0 +1,38 @@
+﻿champ;valeur;description
+siren;;SIREN de l'EPCI (9 chiffres)
+nom;CC Exemple (données fictives);Nom de l'EPCI
+population;24600;Population
+recettes_fonctionnement;14020000;Recettes réelles de fonctionnement 2025 — Classe 7 nette hors 77, DILICO déduit
+depenses_fonctionnement;11850000;Dépenses réelles de fonctionnement 2025 — Classe 6 nette hors 67 et 68
+encours_dette;9100000;Encours de dette au 31/12/2025 — Comptes 16 hors 165
+remboursement_capital;760000;Remboursement du capital 2025 — Débits des comptes 16 hors 165
+depenses_equipement;3300000;Dépenses d'équipement 2025 — Comptes 20, 21, 23
+impots_directs_locaux;4150000;Impôts directs locaux 2025 — Compte 73111
+subventions_fctva_recus;980000;Subventions et FCTVA reçus 2025 — Comptes 13 (hors 139) et 10222
+dilico_2025_epci;0;"DILICO 2025 payé par l'EPCI — Montant positif ; compte 739218"
+dilico_2026_epci;0;DILICO 2026 prélevé sur l'EPCI — Fichier DGCL « DILICO 2 »
+reversement_dilico_2026_epci;0;Reversement DILICO perçu en 2026 — Fichier DGCL « DILICO 1 : reversement »
+fpic_2026_solde;-118000;FPIC 2026 — solde de l'ensemble intercommunal — Négatif = contributeur net
+cpeb_2027_epci;192000;CPEB 2027 estimée — part EPCI — Intercommunalités de France
+cpeb_2027_communes;418000;CPEB 2027 estimée — part des communes — Intercommunalités de France
+ratio_cpeb_recettes_publie;;Ratio CPEB / recettes publié (%) — Facultatif
+
+code_insee;commune;population;recettes_fonct_2025;epargne_brute_2025;dilico_2025;reversement_dilico_2026
+EX001;Bourg-Centre (fictive);6820;9450000;1120000;0;0
+EX002;Les Essarts (fictive);2410;2180000;268000;24500;7350
+EX003;Saint-Martin (fictive);1980;1720000;205000;0;0
+EX004;Val-Fleuri (fictive);1640;1390000;96000;0;0
+EX005;La Prairie (fictive);1520;1310000;188000;11800;3540
+EX006;Haut-Bois (fictive);1290;1040000;74000;0;0
+EX007;Les Moulins (fictive);1180;980000;121000;0;0
+EX008;Rivière (fictive);1040;870000;58000;0;0
+EX009;Champ-Long (fictive);890;720000;93000;0;0
+EX010;Bellevue (fictive);760;610000;41000;0;0
+EX011;Petit-Val (fictive);640;540000;62000;0;0
+EX012;La Côte (fictive);580;470000;-12000;0;0
+EX013;Les Granges (fictive);520;430000;37000;0;0
+EX014;Mont-Clair (fictive);470;380000;44000;0;0
+EX015;Fontaine (fictive);410;340000;29000;0;0
+EX016;Le Hameau (fictive);330;260000;18000;0;0
+EX017;Les Prés (fictive);300;240000;31000;0;0
+EX018;Grand-Champ (fictive);300;250000;22000;0;0

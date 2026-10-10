@@ -1,0 +1,21 @@
+﻿champ;valeur;description
+siren;;SIREN de l'EPCI (9 chiffres)
+nom;;Nom de l'EPCI
+population;;Population
+recettes_fonctionnement;;Recettes réelles de fonctionnement 2025 — Classe 7 nette hors 77, DILICO déduit
+depenses_fonctionnement;;Dépenses réelles de fonctionnement 2025 — Classe 6 nette hors 67 et 68
+encours_dette;;Encours de dette au 31/12/2025 — Comptes 16 hors 165
+remboursement_capital;;Remboursement du capital 2025 — Débits des comptes 16 hors 165
+depenses_equipement;;Dépenses d'équipement 2025 — Comptes 20, 21, 23
+impots_directs_locaux;;Impôts directs locaux 2025 — Compte 73111
+subventions_fctva_recus;;Subventions et FCTVA reçus 2025 — Comptes 13 (hors 139) et 10222
+dilico_2025_epci;;"DILICO 2025 payé par l'EPCI — Montant positif ; compte 739218"
+dilico_2026_epci;;DILICO 2026 prélevé sur l'EPCI — Fichier DGCL « DILICO 2 »
+reversement_dilico_2026_epci;;Reversement DILICO perçu en 2026 — Fichier DGCL « DILICO 1 : reversement »
+fpic_2026_solde;;FPIC 2026 — solde de l'ensemble intercommunal — Négatif = contributeur net
+cpeb_2027_epci;;CPEB 2027 estimée — part EPCI — Intercommunalités de France
+cpeb_2027_communes;;CPEB 2027 estimée — part des communes — Intercommunalités de France
+ratio_cpeb_recettes_publie;;Ratio CPEB / recettes publié (%) — Facultatif
+
+code_insee;commune;population;recettes_fonct_2025;epargne_brute_2025;dilico_2025;reversement_dilico_2026
+45000;Exemple de commune (ligne à remplacer);1000;800000;90000;0;0
